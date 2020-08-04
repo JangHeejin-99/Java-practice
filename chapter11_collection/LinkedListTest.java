@@ -19,7 +19,7 @@ public class LinkedListTest {
 		System.out.println(myList);
 		
 		for(int i = 0; i < myList.size(); i++) {
-			String s = myList.get(i); // list¿¡¸¸ ÀÖ´Â method = get
+			String s = myList.get(i); // listì—ë§Œ ìžˆëŠ” method = get
 			System.out.println(s);
 		}
 	}

@@ -16,7 +16,7 @@ public class BubbleSort implements Sort{
 	@Override
 	public void description() {
 		Sort.super.description();
-		System.out.println("BubbleSort�Դϴ�.");
+		System.out.println("BubbleSort입니다.");
 	}
 
 }

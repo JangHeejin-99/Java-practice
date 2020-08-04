@@ -12,7 +12,7 @@ class MyStack {
 	public String pop() {
 		int len = arrayStack.size();
 		if(len == 0) {
-			System.out.println("½ºÅÃÀÌ ºñ¾ú½À´Ï´Ù.");
+			System.out.println("ìŠ¤íƒì´ ë¹„ì—ˆìŠµë‹ˆë‹¤.");
 			return null;
 		}
 		return arrayStack.remove(len-1);

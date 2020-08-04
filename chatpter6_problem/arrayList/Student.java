@@ -20,13 +20,13 @@ public class Student {
 	}
 	
 	public void showBookInfo() {
-		System.out.print(name+" ÇĞ»ıÀÌ ÀĞÀº Ã¥Àº : ");
+		System.out.print(name+" í•™ìƒì´ ì½ì€ ì±…ì€ : ");
 		for(Book book : list) {
 			book.getBookName();
 			
 			System.out.print(book.getBookName()+" ");
 		}
-		System.out.println("ÀÔ´Ï´Ù");
+		System.out.println("ì…ë‹ˆë‹¤");
 	}
 	
 }

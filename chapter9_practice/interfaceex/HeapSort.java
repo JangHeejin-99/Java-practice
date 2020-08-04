@@ -17,7 +17,7 @@ public class HeapSort implements Sort {
 	@Override
 	public void description() {
 		Sort.super.description();
-		System.out.println("HeapSort�Դϴ�.");
+		System.out.println("HeapSort입니다.");
 	}
 
 }
