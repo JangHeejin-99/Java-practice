@@ -1,7 +1,7 @@
 package generic;
 
 public class GenericPrinter<T extends Meterial> {
-	// T type -> Á¦ÇÑÀ» ÁÜ
+	// T type -> ì œí•œì„ ì¤Œ
 	private T material;
 
 	public T getMaterial() {
