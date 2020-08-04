@@ -15,7 +15,7 @@ public class QuickSort implements Sort {
 	@Override
 	public void description() {
 		Sort.super.description();
-		System.out.println("QuickSort�Դϴ�.");
+		System.out.println("QuickSort입니다.");
 	}
 
 }
